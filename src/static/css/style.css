@@ -117,16 +117,3 @@ body, html {
   justify-content: center;
   align-items: center;
 }
-
-.social-links {
-  width: auto;
-  height: 256px;
-  display: flex;
-  flex-flow: column nowrap;
-  justify-content: space-around;
-  align-items: center;
-  position: fixed;
-  right: 2.5rem;
-  bottom: 2rem;
-  color: rgba(0,46,102,.8);
-}
