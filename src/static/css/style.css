@@ -1,0 +1,14 @@
+* {
+  /* https://www.w3schools.com/cssref/css3_pr_box-sizing.asp */
+  box-sizing: border-box;
+}
+
+body, html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  /* https://www.w3schools.com/css/css_font.asp */
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #fff;
+}
